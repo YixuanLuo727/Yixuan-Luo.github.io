@@ -27,7 +27,7 @@ My research interest is deep incomplete multi-view clustering algoritms, especia
 On progress!
 
 # 🎖 Honors and Awards
-On progress!
+6666
 
 # 📖 Educations
 - *2026.09 - present*, **South China University of Technology**, Computational Mathematics.
