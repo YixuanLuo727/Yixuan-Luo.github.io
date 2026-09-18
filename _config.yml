@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yixuan-Luo727"
 description              : "Personal academic homepage of Luo Yixuan, a graduate student in Computational Mathematics at South China University of Technology."
-repository               : "YixuanLuo727/Yixuan-Luo.github.io"
+repository               : "YixuanLuo727.github.io"
 url                      : "https://yixuanluo727.github.io"
 baseurl                  : "/Yixuan-Luo.github.io"
 google_scholar_stats_use_cdn : true
