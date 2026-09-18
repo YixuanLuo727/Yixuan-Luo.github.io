@@ -23,7 +23,6 @@ Hi! I am **Luo Yixuan (罗义轩)**, a first-year master's student in **Computat
 
 My current interests are **time series analysis**, **dynamical systems**, and their applications in forecasting, risk analysis, and data-driven decision making. I am particularly interested in turning mathematical models into reliable and interpretable tools for real-world problems.
 
-I am currently building practical experience in Python-based data analysis and electricity-load forecasting.
 
 <span class="anchor" id="research-interests"></span>
 
@@ -32,8 +31,6 @@ I am currently building practical experience in Python-based data analysis and e
 - Time series analysis and forecasting
 - Dynamical systems and data-driven modeling
 - Statistical learning and uncertainty quantification
-- Anomaly detection and risk analysis
-- Energy and electricity-data applications
 
 <span class="anchor" id="projects"></span>
 
