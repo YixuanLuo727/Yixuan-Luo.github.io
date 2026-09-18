@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yixuan-Luo"
+title                    : "Yixuan-Luo727"
 description              : "Personal academic homepage of Luo Yixuan, a graduate student in Computational Mathematics at South China University of Technology."
 repository               : "YixuanLuo727/Yixuan-Luo.github.io"
+url                      : "https://yixuanluo727.github.io"
+baseurl                  : "/Yixuan-Luo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Luo Yixuan (罗义轩)"
-  avatar           : "images/avatar.png"
+  avatar           : ""
   bio              : "M.S. Student in Computational Mathematics"
   location         : "Guangzhou, China"
   employer         : 
@@ -37,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : YixuanLuo727
+  github           : "YixuanLuo727"
   google_plus      :
   keybase          :
   instagram        :
